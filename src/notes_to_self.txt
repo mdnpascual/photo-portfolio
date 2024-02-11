@@ -1,0 +1,4 @@
+Upload files in Drive
+Use https://www.labnol.org/embed/google/drive/ to get direct image links
+
+Split view comparison: https://juxtapose.knightlab.com/
